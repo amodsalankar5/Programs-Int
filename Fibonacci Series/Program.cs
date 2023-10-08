@@ -1,4 +1,6 @@
-﻿int a = 0;
+﻿// Fibonacci series means series of numbers whose next number will be addition of previous two numbers.
+
+int a = 0;
 int b = 1;
 int c;
 
